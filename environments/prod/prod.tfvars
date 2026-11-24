@@ -1,0 +1,6 @@
+aws_region="ap-south-1"
+environment="prod"
+bucket_name="prod-data-bucket-unique"
+instance_type="t3.small"
+ami_id="ami-xxxx"
+vpc_id="vpc-xxxx"

@@ -1,0 +1,6 @@
+aws_region="ap-south-1"
+environment="qa"
+bucket_name="qa-data-bucket-unique"
+instance_type="t3.micro"
+ami_id="ami-xxxx"
+vpc_id="vpc-xxxx"

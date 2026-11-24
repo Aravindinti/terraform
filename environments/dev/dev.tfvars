@@ -1,0 +1,6 @@
+aws_region="ap-south-1"
+environment="dev"
+bucket_name="dev-data-bucket-unique"
+instance_type="t3.micro"
+ami_id="ami-xxxx"
+vpc_id="vpc-xxxx"
